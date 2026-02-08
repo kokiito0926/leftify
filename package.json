@@ -33,6 +33,7 @@
 		"test": "node --test"
 	},
 	"dependencies": {
+		"dedent": "^1.7.1",
 		"zx": "^8.8.4"
 	},
 	"engines": {
