@@ -2,7 +2,7 @@
 	"name": "@kokiito0926/leftify",
 	"version": "0.0.0",
 	"private": false,
-	"description": "インデントを除去することができるコマンドラインのツールです。",
+	"description": "標準入力から受け取ったテキストのインデントを除去することができるコマンドラインのツールです。",
 	"keywords": [
 		"cli",
 		"bash",
