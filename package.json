@@ -1,6 +1,6 @@
 {
 	"name": "@kokiito0926/leftify",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"private": false,
 	"description": "標準入力から受け取ったテキストのインデントを除去することができるコマンドラインのツールです。",
 	"keywords": [
