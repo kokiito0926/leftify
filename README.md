@@ -17,6 +17,15 @@ $ npm install --global @kokiito0926/leftify
 $ cat ./example.txt | leftify
 ```
 
+## オプション
+
+| オプション | 説明 |
+| :--- | :--- |
+| `--all` | 共通インデントだけでなく、すべての行の先頭の空白を完全に削除します。 |
+| `--no-dedent` | `dedent` ライブラリによる自動的なインデント削除を無効化します。 |
+| `--trailing` | 行末の不要な空白（スペース、タブ）を削除します。 |
+| `--collapse-empty` | 連続する空行を1つにまとめます。 |
+
 ## ライセンス
 
 [MIT](LICENSE)
